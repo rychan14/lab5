@@ -12,3 +12,13 @@
 h1, h2, h3, h4, h5 {
 	color: #8382BF;
 }
+
+.friend {
+	margin-left: 64px;
+	padding: 20px;
+	width: 314px;
+}
+
+.img-rounded {
+	width:314px;
+}
